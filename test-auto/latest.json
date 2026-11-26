@@ -1,0 +1,15 @@
+{
+  "manifest": {
+    "app_id": "ProCraft-TEST-AutoUpdate",
+    "channel": "test-auto",
+    "version": "1.0.18",
+    "min_version": "1.0.17",
+    "published": true,
+    "download_url": "https://github.com/Vasilis-Kor/procraft-updates-test/releases/download/v1.0.18-test/ProCraft-Update-1.0.18-TEST.exe",
+    "sha256": "8780d0f742cfc5eadb603ca899898f5432287328379a11b550d9ea2f80362d4d",
+    "size": 75329087,
+    "notes": "ProCraft 1.0.18 TEST - δοκιμή αυτόματης απομακρυσμένης ενημέρωσης",
+    "released_at": "2026-11-25T19:48:06+00:00"
+  },
+  "signature": "w8FcNJ+VrOwLOasRkbVkJClcOh/72nzr7l16XsvttQAwF1YaoLNrG76b5qOLbhbcmQ4hWGaeYcTZxcUN8hT6Bg=="
+}
